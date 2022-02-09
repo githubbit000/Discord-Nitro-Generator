@@ -1,5 +1,9 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/MoleTheDev/Discord-Nitro-Generator?style=social)
+![Github Repo Issues](https://img.shields.io/github/issues/MoleTheDev/Discord-Nitro-Generator)
+![GitHub forks](https://img.shields.io/github/forks/MoleTheDev/Discord-Nitro-Generator?style=social)
+![Github Followers](https://img.shields.io/github/followers/MoleTheDev?style=social)
 
+<p align="center"><mark>Star us!</mark></p>
 
 <p align="center">Discord Nitro Codes Generator With Checker</p>
 
@@ -42,7 +46,8 @@ python main.py
 **Now the code is fully running!<br>and you just need to wait till the code finds a valid code (this may take a while)**
 
 ### Credit
-[Mole](https://github.com/MoleTheDev/)
+[Mole](https://github.com/MoleTheDev/)<br>
+![Follow](https://img.shields.io/github/followers/MoleTheDev?style=social)
 
 ### License / ©️
 **MIT** License<br>
