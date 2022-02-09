@@ -4,7 +4,7 @@
 
 ## Preview
 
-<img src="assets/example.png" alt="Image of product">
+<img src="https://i.ibb.co/p28Ssm0/IMG-20220209-172438.jpg" alt="preview">
 Generates Random Nitro Codes, it may find a code that works.
 
 ### Used Modules
@@ -16,13 +16,12 @@ Generates Random Nitro Codes, it may find a code that works.
 ### Requirements
 You need to install Python 3.x From [Here](https://www.python.org).<br>
 **If** you don't have [GIT](https://git-scm.com/) installed:
-```sh
-# Windows:
+#### Windows:
 Download and Install git from the official site [here](https://git-scm.com/download/win)
 
-# Unix:
+#### Unix:
 apt update -y && apt upgrade -y && apt install git -y
-```
+
 ### Installation
 1. Clone the repo
    ```sh
