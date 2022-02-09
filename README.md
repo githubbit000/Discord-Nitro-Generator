@@ -20,7 +20,9 @@ You need to install Python 3.x From [Here](https://www.python.org).<br>
 Download and Install git from the official site [here](https://git-scm.com/download/win)
 
 #### Unix:
+```
 apt update -y && apt upgrade -y && apt install git -y
+```
 
 ### Installation
 1. Clone the repo
