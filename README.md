@@ -1,6 +1,7 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/MoleTheDev/Discord-Nitro-Generator?style=social)
 
-<p align="center">
-   Discord Nitro Codes Generator With Checker
+
+<p align="center">Discord Nitro Codes Generator With Checker</p>
 
 ## Preview
 
