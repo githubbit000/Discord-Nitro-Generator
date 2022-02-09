@@ -10,8 +10,8 @@ Generates Random Nitro Codes, it may find a code that works.
 ### Used Modules
 
 * [Requests](https://github.com/psf/requests)
-* [Random](https://github.com/lovvskillz/python-discord-webhook)
-* [Colorama](https://gitlab.com/dslackw/colored)
+* [Random](https://docs.python.org/3/library/random.html)
+* [Colorama](https://github.com/tartley/colorama)
 
 ### Requirements
 You need to install Python 3.x From [Here](https://www.python.org).<br>
